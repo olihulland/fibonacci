@@ -1,2 +1,8 @@
-#ignore these filetypes
-*.class
+#ignore all
+*
+
+#unignore if extension
+!*.*
+
+#unignore if dir
+!*/
