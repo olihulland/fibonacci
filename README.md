@@ -1,4 +1,6 @@
 # fibonacci
 Fibonacci Sequence in Python, C and Java!
 
-This is me learning how git works!!
+Learning how git works!!
+
+Look at python first to understand algorithm - C and Java not well commented.
