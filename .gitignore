@@ -6,3 +6,6 @@
 
 #unignore if dir
 !*/
+
+#ignore if java obj code
+*.class
