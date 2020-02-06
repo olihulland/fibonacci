@@ -1,3 +1,4 @@
+### for ignoring C executables
 #ignore all
 *
 
@@ -7,5 +8,5 @@
 #unignore if dir
 !*/
 
-#ignore if java obj code
+### for ignoring java object code
 *.class
